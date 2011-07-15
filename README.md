@@ -1,4 +1,4 @@
-*WP_Activity
+*WP_ActivityStream
 
 
 A Plugin in Progress: The purpose is to gather a WordPress site's activity and display it in a linear fashion much like a news feed. Currently I am pulling data from several Custom Post Types for the home page of www.makemedicinebetter.org. This enables users to see where people are active on the site and introduces them to the site as a commuinity without much digging around.

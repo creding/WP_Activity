@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: ActivityStream
+Plugin Name: WP_ActivityStream
 Plugin URI: http://christopherreding.com
 Description: Grabs posts and comments and arranges them in an activity stream
 Version: 1.0
