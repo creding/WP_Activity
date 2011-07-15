@@ -259,7 +259,7 @@ class ActivityStream {
 			$query .= "AND wp_posts.post_author = $post_author->ID ";
 			endif;
 			$query .= "AND wp_posts.post_type IN ('post', 'heroes', 'discussions', 'interest-groups' ) ) 
-			UNION
+			UNION ALL
 			(SELECT 
 				UNIX_TIMESTAMP(wp_comments.comment_date) as date,
 				comment_ID as id,
